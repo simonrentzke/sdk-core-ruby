@@ -7,3 +7,7 @@
 * [paypal-sdk-permissions](https://github.com/paypal/permissions-sdk-ruby)
 * [paypal-sdk-merchant](https://github.com/paypal/merchant-sdk-ruby)
 * [paypal-sdk-buttonmanager](https://github.com/paypal/buttonmanager-sdk-ruby)
+
+## Support
+
+> Please contact [PayPal Technical Support](https://developer.paypal.com/support/) for any live or account issues.
